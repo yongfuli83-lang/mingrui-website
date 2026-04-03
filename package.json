@@ -1,0 +1,9 @@
+{
+  "name": "mingrui-plastic-website",
+  "version": "1.0.0",
+  "description": "宁波明锐新材料官网 - 改性塑料解决方案专家",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  }
+}
