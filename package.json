@@ -1,9 +1,11 @@
 {
-  "name": "mingrui-plastic-website",
+  "name": "mingruixc-website",
   "version": "1.0.0",
-  "description": "宁波明锐新材料官网 - 改性塑料解决方案专家",
+  "description": "宁波明锐新材料有限公司官网 - 专注改性塑料全品类解决方案",
   "scripts": {
-    "dev": "vercel dev",
     "deploy": "vercel --prod"
-  }
+  },
+  "keywords": ["改性塑料", "塑料颗粒", "PP", "尼龙", "POM", "PC", "余姚塑料"],
+  "author": "宁波明锐新材料有限公司",
+  "license": "MIT"
 }
